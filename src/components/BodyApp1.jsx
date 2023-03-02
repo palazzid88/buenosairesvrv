@@ -17,7 +17,7 @@ function BodyApp1() {
             <ul>
               <li>
                 {/* <a href='#'> */}
-                  Mini y Multi Split
+                  Mini y Multi Split.
                 {/* </a> */}
               </li>
               <li>
